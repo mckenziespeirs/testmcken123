@@ -1,0 +1,110 @@
+* {
+    background-color: lightblue;
+    margin: 1;
+    padding: 1;
+    box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    size: 10px;
+    background-color: pink;
+
+}
+.h1 {
+    text-align: center;
+    size: 10px;
+    background-color: pink;
+
+}
+
+nav {
+    display: inline-block;
+    padding-right: 40px;
+    padding-top: 40px;
+    background-color: pink;
+    border-bottom: 2px black solid;
+    font-size: larger;
+}
+
+a {
+    color: black;
+    background-color: pink;
+}
+
+.smaller {
+    width: 50px;
+    height: 50px;
+    padding: 2px;
+    background-color: white;
+}
+.middle {
+    padding-left: 550px;
+    padding-right: 550px;
+    border: 2px solid black;
+    background-color: pink;
+}
+
+ul {
+
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: pink;
+}
+section {
+    border: 2px black solid;
+    background-color: white;
+}
+td.middle2 {
+    background-color: pink;
+}
+.woah {
+    border-left: 2px solid black;
+    padding: 5px;
+    background-color: white;
+}
+h2 {
+    background-color: white; 
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
+}
+p {
+    background-color: white;
+    font-size: larger;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+img {
+    border: solid black 2px;
+}
+
+
+.good {
+    border-left: 2px black solid;
+    border-right: 2px black solid;
+    border-bottom: 2px black solid;
+}
+section.twenty {
+    background-color: pink;
+    border-bottom: solid black 2px;
+    padding: 1%;
+}
+label {
+    background-color: pink;
+}
+input {
+    background-color: white;
+}
+.bad {
+    background-color: white;
+}
+section.word {
+    background-color: white;
+}
+
+h1.heading {
+    border: 2px solid black;
+}
